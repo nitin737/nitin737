@@ -4,7 +4,9 @@
 <hr />
 
 <h3> 💻 &nbsp;About Me </h3>
-
+<ul><li>Like Learning New Technologies</li>
+  <li>You can ask me any question -> procomtech737@gmail.com</li>
+</ul>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -44,7 +46,7 @@
 [<img height="30" src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/hashnode-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
-[<img height="30" src = "https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src = "https://img.shields.io/badge/gmail-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][dev.to]
 <br />
 
 
@@ -54,3 +56,4 @@
 [LinkedIn]: https://www.linkedin.com/in/nitin737/
 [Instagram]: https://www.instagram.com/mordor.code/
 [Facebook]: https://www.facebook.com/nitin.unknown/
+[dev.to]: https://dev.to/mordor737/
