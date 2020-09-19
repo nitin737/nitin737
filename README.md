@@ -29,8 +29,8 @@
 
 <p align="center">
 <a href="https://github.com/mordor737">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mordor737&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mordor737&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mordor737&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mordor737&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
