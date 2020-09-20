@@ -64,3 +64,4 @@
 [dev.to]: https://dev.to/mordor737/
 [HashNode]: https://hashnode.com/@morder737
 [Medium]: https://medium.com/@procomtech737
+[reddit]: https://www.reddit.com/user/mordor737
