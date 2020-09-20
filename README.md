@@ -31,6 +31,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![STS](https://img.shields.io/badge/-Spring%20Tool%20Suite-333333?style=flat&logo=spring)
 
+<hr>
+
 <p align="center">
 <a href="https://github.com/mordor737">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mordor737&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
