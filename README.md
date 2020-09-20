@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 <h2>I'm Nitin</h2>
-<hr />
+<hr >
 
 <h3> 💻 &nbsp;About Me </h3>
 <ul><li>Like Learning New Technologies</li>
   <li>You can ask me any question -> procomtech737@gmail.com</li>
 </ul>
+
+<hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
