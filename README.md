@@ -22,7 +22,8 @@
   ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apache+kafka)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache+spark)
 - 🛢 &nbsp;
-  ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=sql)
+  ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=oraclesql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
