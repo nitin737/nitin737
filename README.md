@@ -24,7 +24,6 @@
 - 🛢 &nbsp;
   ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=sql)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 - 🔧 &nbsp;
