@@ -20,7 +20,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apache+kafka)
-  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache+spark)
+  
 - 🛢 &nbsp;
   ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=oraclesql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
