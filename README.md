@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h2>A Developer with Strong Passion for learning modern Technology and always ready to learn things i don't know.</h2>
+<h2>I'am Nitin</h2>
 <hr >
 
 <h3> 💻 &nbsp;About Me </h3>
-<ul><li>Like Learning New Technologies</li>
-  <li>You can ask me any question -> procomtech737@gmail.com</li>
+<ul><li>A Developer with Strong Passion for learning modern Technology and always ready to learn things i don't know.</li>
+  <li>You can ask me any question and we will find the solution together-> procomtech737@gmail.com</li>
 </ul>
 
 <hr>
