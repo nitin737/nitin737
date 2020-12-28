@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>I'm Nitin</h2>
+<h2>A Developer with Strong Passion for learning modern Technology and always ready to learn things i don't know.</h2>
 <hr >
 
 <h3> 💻 &nbsp;About Me </h3>
