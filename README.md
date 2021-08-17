@@ -5,7 +5,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-<ul><li>A Developer with Strong Passion for learning modern Technology and always ready to learn things i don't know.</li>
+<ul><li>A Developer with Strong Passion for learning Technology and always ready to explore</li>
 </ul>
 
 <hr>
