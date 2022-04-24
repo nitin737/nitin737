@@ -58,7 +58,7 @@
 
 
 
-[twitter]: https://twitter.com/Nitin26743927
+[twitter]: https://twitter.com/nitin127001
 [LinkedIn]: https://www.linkedin.com/in/nitin737/
 [Instagram]: https://www.instagram.com/mordor.code/
 [Facebook]: https://www.facebook.com/nitin.unknown/
