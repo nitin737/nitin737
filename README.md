@@ -36,12 +36,12 @@
 
 <p align="center">
 <a href="https://github.com/mordor737">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mordor737&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mordor737&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitin737&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nitin737&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=mordor737)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=nitin737)
 
 <hr>
 
@@ -64,5 +64,5 @@
 [Facebook]: https://www.facebook.com/nitin.unknown/
 [dev.to]: https://dev.to/mordor737/
 [HashNode]: https://hashnode.com/@morder737
-[Medium]: https://medium.com/@procomtech737
+[Medium]: https://medium.com/@nitin127001
 [reddit]: https://www.reddit.com/user/mordor737
