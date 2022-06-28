@@ -3,7 +3,9 @@
 <h2>I'am Nitin</h2>
 <hr />
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nitin737/nitin737/devcard.svg" width="400" alt="Nitin's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips">
+  <img src="https://github.com/nitin737/nitin737/blob/master/devcard.svg" width="400" alt="Nitin's Dev Card"/>
+</a>
 
 <h3> 💻 &nbsp;About Me </h3>
 
