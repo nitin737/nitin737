@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<h2>I'am Nitin</h2>
 <hr />
 
 <a href="https://app.daily.dev/DailyDevTips">
