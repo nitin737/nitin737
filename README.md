@@ -1,19 +1,20 @@
 ### Hi there 👋
 
 <hr />
-<table>
-<tr>
-<td>
-<a href="https://app.daily.dev/DailyDevTips">
-  <img src="https://github.com/nitin737/nitin737/blob/master/devcard.svg" width="400" alt="Nitin's Dev Card"/>
-</a>
-</td>
-<td>test</td>
-</tr>
-</table>
 
-
-<h3> 💻 &nbsp;About Me </h3>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/DailyDevTips">
+        <img
+          src="https://github.com/nitin737/nitin737/blob/master/devcard.svg"
+          width="400"
+          alt="Nitin's Dev Card"
+        />
+      </a>
+    </td>
+    <td>
+     <h3> 💻 &nbsp;About Me </h3>
 
 <ul><li>Developer with Strong Passion for learning Technology and always ready to collaborate </li>
 </ul>
@@ -42,6 +43,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![STS](https://img.shields.io/badge/-Spring%20Tool%20Suite-333333?style=flat&logo=spring)
+
+    </td>
+  </tr>
+</table>
+
+
 
 <hr>
 
