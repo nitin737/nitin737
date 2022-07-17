@@ -55,7 +55,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/mordor737">
+<a href="https://github.com/nitin737">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitin737&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nitin737&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
@@ -85,4 +85,3 @@
 [dev.to]: https://dev.to/mordor737/
 [HashNode]: https://hashnode.com/@morder737
 [Medium]: https://medium.com/@nitin127001
-[reddit]: https://www.reddit.com/user/mordor737
