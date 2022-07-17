@@ -16,7 +16,7 @@
     <td>
      <h3> 💻 &nbsp;About Me </h3>
 
-<ul><li>Developer with Strong Passion for learning Technology and always ready to collaborate </li>
+<ul><li>Developer with good understanding of technology and in my free time i am alwsys thinking about building something new </li>
 </ul>
 
 <hr>
@@ -27,7 +27,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Angular 2+](https://img.shields.io/badge/-Angular2+-333333?style=flat&logo=angular)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apache+kafka)
@@ -36,13 +35,16 @@
 - 🛢 &nbsp;
   ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-333333?style=flat&logo=oraclesql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Cosmos db](https://img.shields.io/badge/-Cosmos%20db-333333?style=flat&logo=cosmos)
+      
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![STS](https://img.shields.io/badge/-Spring%20Tool%20Suite-333333?style=flat&logo=spring)
+  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=IntelliJ-IDEA)
 
     </td>
   </tr>
