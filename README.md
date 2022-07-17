@@ -1,10 +1,17 @@
 ### Hi there 👋
 
 <hr />
-
+<table>
+<tr>
+<td>
 <a href="https://app.daily.dev/DailyDevTips">
   <img src="https://github.com/nitin737/nitin737/blob/master/devcard.svg" width="400" alt="Nitin's Dev Card"/>
 </a>
+</td>
+<td>test</td>
+</tr>
+</table>
+
 
 <h3> 💻 &nbsp;About Me </h3>
 
